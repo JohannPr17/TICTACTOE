@@ -1,0 +1,8 @@
+{
+2  ...
+3  "scripts": {
+4    "build": "next build",
+5    "lint": "eslint ./src",
+6    "test": "node ./run-tests.js"
+7  }
+8}
